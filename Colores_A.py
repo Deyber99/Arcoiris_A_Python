@@ -1,5 +1,5 @@
 print("primer programa")
 print("Morado opaco")
-print("Negro")
+print("Rojo Rodolfo")
 print("Soy el alumno B")
 # Comentario simpatico
