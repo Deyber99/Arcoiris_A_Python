@@ -1,3 +1,3 @@
 print("primer programa")
-print("Morado")
+print("Morado intenso")
 print("Negro")
